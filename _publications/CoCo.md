@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/CoCo
 excerpt: 'We propose CoCo denoiser, a cocoercive conservative denoiser that enables convergent PnP methods for Poisson inverse problems with improved denoising performance.'
-date: 2025-xx-xx
+date: 2025-10-28
 venue: 'The Thirty-ninth Annual Conference on Neural Information Processing Systems'
 # slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 # paperurl: 'https://academicpages.github.io/files/paper2.pdf'

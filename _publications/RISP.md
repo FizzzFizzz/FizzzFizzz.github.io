@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/RISP
 excerpt: 'We propose RISP, a method that combines restarting inertia with score-based priors for faster convergence and high-quality image reconstruction in inverse problems.'
-date: 2026-xx-xx
+date: 2026-02-28
 venue: 'ICLR 2026'
 # slidesurl: 'https://fizzzfizzz.github.io/files/slides1.pdf'
 # paperurl: 'https://fizzzfizzz.github.io/files/RISP.pdf'
