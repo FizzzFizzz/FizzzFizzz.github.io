@@ -23,12 +23,12 @@ repository               : "https://github.com/FizzzFizzz/FizzzFizzz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Me3.png"
-  name             : "Deliang Wei"
+  avatar           : "Me4.png"
+  name             : "Deliang Wei 韦德亮"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Baltimore, U.S."
-  employer         : "Johns Hopkins University"
+  bio              : "Postdoc Researcher @ Johns Hopkins University"
+  location         : "Baltimore, MD"
+  employer         : "DSAI & ECE"
   uri              : # URL
   email            : "wadeinecnu@gmail.com" 
 
