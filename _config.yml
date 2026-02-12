@@ -23,7 +23,7 @@ repository               : "https://github.com/FizzzFizzz/FizzzFizzz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Me3.jpg"
+  avatar           : "Me3.png"
   name             : "Deliang Wei"
   pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
