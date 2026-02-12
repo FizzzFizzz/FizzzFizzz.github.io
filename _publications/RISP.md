@@ -8,7 +8,7 @@ date: 2026-xx-xx
 venue: 'ICLR 2026'
 # slidesurl: 'https://fizzzfizzz.github.io/files/slides1.pdf'
 # paperurl: 'https://fizzzfizzz.github.io/files/RISP.pdf'
-bibtexurl: 'https://FizzzFizzz.github.io/files/bibtexRISP.bib'
+bibtexurl: 'https://academicpages.github.io/files/bibtexRISP.bib'
 citation: 'Renaud M, Hermant J, Wei D, Sun Y. Provably Accelerated Imaging with Restarted Inertia and Score-based Image Priors[C]. The Fourteenth International Conference on Learning Representations, 2026.'
 
 ---
