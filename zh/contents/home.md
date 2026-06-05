@@ -1,7 +1,7 @@
 [![English](https://img.shields.io/badge/English-Homepage-blue)](../)
 [![GitHub](https://img.shields.io/badge/GitHub-FizzzFizzz-blue?logo=github)](https://github.com/FizzzFizzz)
 [![Email](https://img.shields.io/badge/Email-dwei12%40jh.edu-red)](mailto:dwei12@jh.edu)
-[![CV](https://img.shields.io/badge/CV-PDF-green)](../static/assets/cv/Deliang_Wei_CV1.pdf)
+[![CV](https://img.shields.io/badge/CV-PDF-green)](/zh/static/assets/cv/Deliang_Wei_CV1.pdf)
 
 我目前是约翰霍普金斯大学数据科学与人工智能研究所博士后研究员，隶属于怀挺工学院，与孙彧教授合作开展研究。
 
