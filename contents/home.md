@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-dwei12%40jh.edu-red)](mailto:dwei12@jh.edu)
 [![CV](https://img.shields.io/badge/CV-PDF-green)](static/assets/cv/Deliang_Wei_CV.pdf)
 
-I am a postdoctoral researcher at Johns Hopkins University, affiliated with the Whiting School of Engineering and the Data Science and AI Institute, working with Professor Yu Sun.
+I am a postdoctoral researcher in the [Hopkins Computational Imaging Group](https://hcig.wse.jhu.edu/) at Johns Hopkins University, affiliated with the Whiting School of Engineering and the Data Science and AI Institute, working with Professor [Yu Sun](https://sunyumark.github.io/).
 
 I received my Ph.D. in Mathematics from the School of Mathematical Sciences at East China Normal University in July 2025, advised by Professor Fang Li. I also visited the Department of Mathematics at the Chinese University of Hong Kong, working with Professor Tieyong Zeng.
 
