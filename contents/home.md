@@ -1,7 +1,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-FizzzFizzz-blue?logo=github)](https://github.com/FizzzFizzz)
 [![Email](https://img.shields.io/badge/Email-dwei12%40jh.edu-red)](mailto:dwei12@jh.edu)
 [![CV](https://img.shields.io/badge/CV-PDF-green)](static/assets/cv/Deliang_Wei_CV.pdf)
-
+[![中文](https://img.shields.io/badge/中文-首页-blue)](zh/)
 I am a postdoctoral researcher at Johns Hopkins University, affiliated with the Whiting School of Engineering and the Data Science and AI Institute, working with Professor Yu Sun.
 
 I received my Ph.D. in Mathematics from the School of Mathematical Sciences at East China Normal University in July 2025, advised by Professor Fang Li. I also visited the Department of Mathematics at the Chinese University of Hong Kong, working with Professor Tieyong Zeng.
