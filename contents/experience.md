@@ -1,21 +1,46 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### Research Experience
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+#### **Postdoctoral Researcher**  
+**Johns Hopkins University, Whiting School of Engineering / DSAI**  
+Aug. 2025 – present  
+Advisor: Professor Yu Sun
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+I work on scalable and theoretically grounded algorithms for computational imaging and generative inverse problems, including posterior sampling, diffusion/generative priors, plug-and-play methods, and time-parallel computation.
+
+#### **Ph.D. Researcher in Mathematics**  
+**East China Normal University, School of Mathematical Sciences**  
+Sept. 2019 – Jul. 2025  
+Advisor: Professor Fang Li
+
+My doctoral research focused on convergent plug-and-play methods, learned image priors, operator-theoretic analysis, and applications to imaging inverse problems such as CT reconstruction and noise removal.
+
+#### **Visiting Scholar / Research Assistant**  
+**Chinese University of Hong Kong, Department of Mathematics**  
+Dec. 2022 – Feb. 2023  
+Advisor: Professor Tieyong Zeng
+
+Worked on computational imaging and image restoration problems, with an emphasis on variational and operator-splitting methods.
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### Teaching and Mentoring
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+#### **Teaching Assistant**  
+**Johns Hopkins University, Whiting School of Engineering**  
+Jan. 2026 – May 2026  
+Teaching assistant for Professor Yu Sun's optimization course. Responsibilities included homework grading, exam grading, and office hours.
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+#### **Seminar Organizer: Probability and Sampling Theory**  
+**Johns Hopkins University, Whiting School of Engineering**  
+Oct. 2025 – present  
+Organized a regular seminar on theoretical topics related to probability, learning, and sampling.
+
+#### **Seminar Organizer: Monotone Operator Theory**  
+**East China Normal University, School of Mathematical Sciences**  
+Sept. 2023 – Dec. 2023  
+Organized a reading seminar on monotone operator theory and related analysis.
+
+#### **Teaching Assistant and Problem Session Instructor**  
+**East China Normal University, School of Mathematical Sciences**  
+Sept. 2020 – Jun. 2021  
+Teaching assistant for the honors Mathematical Analysis course taught by Professors Tao Cheng and Xuecheng Pang.

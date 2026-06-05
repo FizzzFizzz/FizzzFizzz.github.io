@@ -1,20 +1,39 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![GitHub](https://img.shields.io/badge/GitHub-FizzzFizzz-blue?logo=github)](https://github.com/FizzzFizzz)
+[![Email](https://img.shields.io/badge/Email-dwei12%40jh.edu-red)](mailto:dwei12@jh.edu)
+[![CV](https://img.shields.io/badge/CV-PDF-green)](static/assets/cv/Deliang_Wei_CV.pdf)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I am a postdoctoral researcher at Johns Hopkins University, affiliated with the Whiting School of Engineering and the Data Science and AI Institute, working with Professor Yu Sun.
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+I received my Ph.D. in Mathematics from the School of Mathematical Sciences at East China Normal University in July 2025, advised by Professor Fang Li. I also visited the Department of Mathematics at the Chinese University of Hong Kong, working with Professor Tieyong Zeng.
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+My research focuses on theoretically grounded generative AI methods for computational imaging. I am interested in developing scalable and convergent algorithms for imaging inverse problems, with tools from optimization, operator theory, posterior sampling, and diffusion/generative models.
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+#### Research Interests
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+- Computational imaging and inverse problems
+- Generative posterior sampling and diffusion-type methods
+- Plug-and-play algorithms and learned image priors
+- Optimization, monotone operator theory, and spectral theory
+- Time-parallel and multi-GPU algorithms for large-scale imaging
 
-#### Research Interests  
-XX, XX, XX, XX.
+#### Education and Research Experience
+
+**Johns Hopkins University**, Postdoctoral Researcher, ECE & DSAI  
+Aug. 2025 – present  
+Advisor: Professor Yu Sun
+
+**East China Normal University**, Ph.D. in Mathematics  
+Sept. 2019 – Jul. 2025  
+Advisor: Professor Fang Li
+
+**Chinese University of Hong Kong**, Visiting Scholar / Research Assistant  
+Dec. 2022 – Feb. 2023  
+Advisor: Professor Tieyong Zeng
+
+**East China Normal University**, B.Sc. in Mathematics and Applied Mathematics  
+Sept. 2015 – Jul. 2019
+
+#### Contact
+
+Email: `dwei12@jh.edu`  
+GitHub: [FizzzFizzz](https://github.com/FizzzFizzz)
